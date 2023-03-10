@@ -46,7 +46,7 @@ CREATE TABLE SpotifyClone.seguindo_artistas(
     CONSTRAINT PRIMARY KEY (usuario_id, artista_id)
 ) engine = InnoDB;
 
-CREATE TABLE SpotifyClone.historico(
+CREATE TABLE SpotifyClone.historico_de_reproducoes(
    data_reproducao DATETIME NOT NULL,
    cancoes_id INT NOT NULL, 
    usuario_id INT NOT NULL,
@@ -132,7 +132,7 @@ VALUES
     (10, 2);
 
 INSERT INTO
-    SpotifyClone.historico (data_reproducao, cancoes_id, usuario_id)
+    SpotifyClone.historico_de_reproducoes (data_reproducao, cancoes_id, usuario_id)
 VALUES
     ('2022-02-28 10:45:55', 8, 1),
     ('2020-05-02 05:30:35', 2, 1),
