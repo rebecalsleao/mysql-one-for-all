@@ -1,10 +1,18 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+#DESENVOLVIDO
+
+No projeto verá que foi utilizado algumas tabelas, planilhas não normalizadas que foram normalizadas e populadas em um banco de dados para execução de queries com o intuito de encontrar as informações.
+
+#HABILIDADES
+
+- Analisar se duas tabelas não normalizadas;
+
+- Identificar modificações necessárias para que suas tabelas estejam adequadamente na 1ª, 2ª e 3ª Forma Normais;
+
+- Criar um banco de dados a partir de uma planilha que contém tabelas e dados;
+
+- Criar e modelar tabelas;
+
+- Queries que passam pelos principais comandos SQL vistos até o momento.
